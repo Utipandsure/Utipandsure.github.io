@@ -13,6 +13,6 @@ I am a **graphic designer, developer, and digital marketer** passionate about cr
 
 ## Contact Me  
 📞 [whatsApp](https://wa.me/2348125298582)
-📧 [Yahoo](utipandsure@yahoo.com)  
+📧 [Yahoo](mailto:utipandsure@yahoo.com)  
 🌐 [www.utipandsure.com](https://utipandsure.github.io)  
 📱 [LinkedIn Profile](https://www.linkedin.com/in/utipcyril2025)  

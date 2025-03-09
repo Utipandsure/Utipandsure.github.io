@@ -11,6 +11,6 @@ I am a **graphic designer, developer, and digital marketer** passionate about cr
 - **Digital Marketing:** SEO, Google Ads, social media strategies  
 
 ## Contact Me  
-📧 Email: utipandsure@yahoo.com  
-🌐 Website: [www.utipandsure.com](https://utipandsure.github.io)  
-📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com.in.utipcyril2025)  
+📧 utipandsure@yahoo.com  
+🌐 [www.utipandsure.com](https://utipandsure.github.io)  
+📱 [LinkedIn Profile](https://www.linkedin.com.in/utipcyril2025)  

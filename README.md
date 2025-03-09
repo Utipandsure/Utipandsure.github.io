@@ -12,6 +12,7 @@ I am a **graphic designer, developer, and digital marketer** passionate about cr
 - **Content Strategyst:** Documentation Expert
 
 ## Contact Me  
-📧 utipandsure@yahoo.com  
+📞 [whatsApp](https://wa.me/2348125298582)
+📧 [Yahoo](utipandsure@yahoo.com)  
 🌐 [www.utipandsure.com](https://utipandsure.github.io)  
 📱 [LinkedIn Profile](https://www.linkedin.com/in/utipcyril2025)  

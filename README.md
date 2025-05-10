@@ -1,5 +1,5 @@
 # Utipandsure
-Meet Utipandsure and learn a skill
+Digital Agency | Strategy | Creativity | Delivery impactful result in Sale, Services & Training - leaving nothing to imagination.
 # Welcome to My Portfolio 👋
 
 ## About Me  

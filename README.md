@@ -1,5 +1,5 @@
 # Utipandsure
-Digital Agency | Strategy | Creativity | Delivery impactful result in Sale, Services & Training - leaving nothing to imagination.
+A digital agency rooted in strategy, creativity, and performance — delivering impactful results across sales, services, and training. We leave nothing to imagination, turning bold ideas into measurable results that drive growth and elevate brands.
 # Welcome to My Portfolio 👋
 
 ## About Me  

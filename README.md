@@ -7,7 +7,7 @@ I am a **graphic designer, developer, and digital marketer** passionate about cr
 
 ## SET SKILLS  
 - **Graphic Design:** Branding, UI/UX  
-- **Web Development:** Frontend & Backend projects  
+- **Fullstack:** Frontend & Backend projects  
 - **Digital Marketing:** SEO, Google Ads, social media strategies  
 - **Content Strategyst:** Documentation Expert
 

@@ -61,3 +61,26 @@ section {
     display: block;
   }
 }
+footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 30px 20px;
+  margin-top: 40px;
+}
+
+.footer-container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.footer-links a {
+  color: #89CFF0; /* Light blue links */
+  margin: 0 8px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}

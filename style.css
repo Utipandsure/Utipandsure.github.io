@@ -32,7 +32,7 @@ nav {
 }
 
 .nav-links a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   font-weight: bold;
   color: #0077b6;
   coursor: pointer;
@@ -89,5 +89,6 @@ footer {
 }
 
 .footer-links a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  coursor: pointer;
 }

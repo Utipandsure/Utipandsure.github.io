@@ -8,7 +8,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   background: #ADDFF0;
   padding: 15px 30px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -19,6 +19,7 @@ nav {
 .logo {
   font-weight: bold;
   font-size: 1.2em;
+  coursor: pointer;
 }
 
 .nav-links {
@@ -26,12 +27,15 @@ nav {
   display: flex;
   gap: 20px;
   z-index: 999;
+  width: 200px;
+  border-radius: 8px;
 }
 
-.nav-links a {
-  text-decoration: none;
+.nav-links a:hover {
+  text-decoration: underline;
   font-weight: bold;
-  color: #333;
+  color: #0077b6;
+  coursor: pointer;
 }
 
 .menu-toggle {
@@ -41,7 +45,7 @@ nav {
 }
 
 section {
-  padding: 40px 20px;
+  padding: 100px 20px 40px;
   max-width: 900px;
   margin: auto;
 }

@@ -3,19 +3,18 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.4;
-  top: 30;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
-  align-items: justify;
+  align-items: flex-start;
   background: #ADDFF0;
   padding: 15px 30px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   position: fixed; 
   width: 100%; 
-  top: 30;
+  top: 30px;
 }
 
 .logo {

@@ -7,6 +7,7 @@ body {
 
 nav {
   display: flex;
+  position: fixed
   justify-content: space-between;
   align-items: justify;
   background: #ADDFF0;

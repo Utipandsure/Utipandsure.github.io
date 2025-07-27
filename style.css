@@ -14,9 +14,9 @@ nav {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   position: fixed; 
   width: 100px; 
-  top: 0px;
-  right: 0px;
-  z-index: 1000px
+  top: 0;
+  right: 0;
+  z-index: 1000;
 }
 
 .logo {

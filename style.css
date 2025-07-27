@@ -10,7 +10,6 @@ nav {
   justify-content: space-between;
   align-items: center;
   background: #ADDFF0;
-  text-decoration: none;
   padding: 15px 30px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   position: fixed; 
@@ -42,6 +41,7 @@ nav {
   display: none;
   font-size: 24px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 section {

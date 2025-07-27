@@ -28,6 +28,7 @@ nav {
   gap: 20px;
   z-index: 999;
   border-radius: 8px;
+  width: 100px;
 }
 
 .nav-links a:hover {

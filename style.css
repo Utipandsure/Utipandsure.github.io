@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  text-decoration: none;
   margin: 0;
   padding: 0;
   left: 0;
@@ -10,6 +11,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
+  text-decoaration: none;
   align-items: center;
   background: #ADDFF0;
   padding: 15px 30px;

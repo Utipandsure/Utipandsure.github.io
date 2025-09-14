@@ -11,7 +11,8 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
-  text-decoaration: none;
+  text-decoration: none;
+  text-emphasis: 30px;
   align-items: center;
   background: #ADDFF0;
   padding: 15px 30px;
@@ -22,6 +23,13 @@ nav {
   right: 0;
   left: 0;
   z-index: 1000;
+}
+
+nav img {
+  max-width: 50px;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .logo {

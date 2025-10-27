@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Form with Confirmation Popup</title>
+  <link rel="stylesheet" href="style.css"></link>
+</head>
+<body>
+<script src="script.js"></script>
+  <div class="container" id="mainContent">
+    <h1>Candidates Entry Submission</h1>
+    <p class="small">Fill the form and click <strong>Send</strong>. A confirmation popup will appear before final submission.</p>
+
+    <form id="contactForm" novalidate>
+      <div class="row">
+        
+        <label for="name">Full name</label>
+        <input id="name" name="name" type="text" required placeholder="Jane Doe" />
+      </div>
+
+      <div class="row">
+        <label for="email">Email address</label>
+        <input id="email" name="email" type="email" required placeholder="name@example.com" />
+      </div>
+
+      <div class="row">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required placeholder="Type your message..."></textarea>
+        <div class="small">We will only use this to contact you.</div>
+      </div>
+
+      <div class="row" style="margin-top:18px;">
+        <button type="submit" class="btn" id="sendBtn">Send</button>
+        <button type="reset" class="btn secondary">Reset</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Confirmation modal -->
+  <div class="modal" id="confirmModal" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="confirmTitle">
+    <div class="modal-dialog" role="document">
+      <div class="modal-header">
+        <h2 class="modal-title" id="confirmTitle">Confirm submission</h2>
+        <button class="close-btn" aria-label="Close" data-close>&times;</button>
+      </div>
+      <div class="modal-body">
+        <p>Are you sure you want to submit the following details?</p>
+        <div class="meta" id="confirmDetails">
+          <!-- name/email/message will be injected here -->
+          <p><strong>Name:</strong> <span id="cName"></span></p>
+          <p><strong>Email:</strong> <span id="cEmail"></span></p>
+          <p><strong>Message:</strong> <span id="cMessage"></span></p>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn secondary" id="cancelConfirm">Cancel</button>
+        <button class="btn" id="confirmSubmit">Yes, submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Success modal -->
+  <div class="modal" id="successModal" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="successTitle">
+    <div class="modal-dialog" role="document">
+      <div class="modal-header">
+        <h2 class="modal-title" id="successTitle">Submitted!</h2>
+        <button class="close-btn" aria-label="Close" data-close>&times;</button>
+      </div>
+      <div class="modal-body">
+        <p>Thank you. Your message was sent successfully.</p>
+      </div>
+      <div class="modal-footer">
+        <button class="btn" id="successOk">OK</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
